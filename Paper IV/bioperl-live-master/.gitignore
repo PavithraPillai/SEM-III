@@ -1,0 +1,11 @@
+.*
+*~
+!.gitignore
+
+# ignore dzil builds
+BioPerl-*
+.build/
+
+# ignore text editors stuff
+.emacs.*
+*.komodoproject
